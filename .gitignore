@@ -1,14 +1,5 @@
-models/
-lrec2020-coref/
 __pycache__/
 *.out
-data/
 .idea/
-.ipynb_checkpoints/
-resources/
-outputs/
-.mypy_cache/
-slurm_scripts/
 wandb/
 .hydra/
-/model.pth
