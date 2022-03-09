@@ -11,7 +11,7 @@ defaults:
 trainer:
   log_frequency: 500
   max_evals: 30
-  patience: 10
+  patience: 5
   eval_per_k_steps: 5000
 
 

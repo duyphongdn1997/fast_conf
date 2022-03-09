@@ -1,4 +1,4 @@
-dropout_rate: 0.3
+dropout_rate: 0.1
 label_smoothing_wt: 0.1
 ment_loss: 'all'
 normalize_loss: False
