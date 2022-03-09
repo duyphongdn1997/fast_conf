@@ -2,7 +2,7 @@ metrics: ['MUC', 'Bcub', 'CEAFE']
 keep_singletons: True
 seed: 45
 train: True
-use_wandb: False
+use_wandb: True
 
 # Override encoder can be used during evaluation to override the encoder used during training
 # Sample use:
